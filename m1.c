@@ -1,4 +1,9 @@
-f gr  fngghmvb void main()
+#include<stdio.h>
+void main()
 {
 printf("hi");
+}
+int main()
+{
+    printf("hello");
 }
