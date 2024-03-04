@@ -1,3 +1,9 @@
 hello how are you 
 fine thanks 
+<<<<<<< HEAD
 what about u
+==
+
+
+its good to see u again
+>>>>>>> fb
